@@ -2,4 +2,4 @@
 - 👀 I’m interested in python and machine learning 
 - 🌱 I’m currently learning Artificial intalligence and machine learning in computer science 
 - 💞️ I’m looking to collaborate on multiple machine learning projects
-- 📫 How to reach me instagram id @beardo_harshu 
+- 📫 How to reach me instagram id @beardo_harshu
