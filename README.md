@@ -4,7 +4,7 @@
 <h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
 
 
-- 👋 Hi, I’m @harshwardhanedu
+- 👋 Hi, I’m Harshwardhan Pstil
 
 - 👀 I’m interested in python and machine learning 
 
